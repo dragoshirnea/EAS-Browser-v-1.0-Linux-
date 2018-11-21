@@ -1,1 +1,1 @@
-# EAS-Browser-v-1.0-Linux-
+# EAS-Browser-v-1.0-Linux
