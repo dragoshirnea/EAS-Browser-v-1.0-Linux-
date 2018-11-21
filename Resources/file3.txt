@@ -1,0 +1,5 @@
+﻿     Extended Air Shower (EAS) is developed by the cascading interactions of the primary cosmic particle with the nuclei of the Earth’s atmosphere. As a result, the initial particles are converted into other particles (electrons and muons) of detectable energies.
+     These last particles reach the ground distributed over a large area from the shower axis.
+The higher the primary particle energy and the heavier its mass, the larger the lateral particle distribution.
+     This lateral distribution carries some information about the energy and the mass of the primary particles. It can be described with the NKG (Nishimura-Kamata-Greisen) parametrisation
+     The graph presents the NKG parametrisation [4] as a function of radius. It can be noticed that NKG decreases exponentially with radius, so we can deduce that most of the particles distribute up to a 100 m distance from shower axis.

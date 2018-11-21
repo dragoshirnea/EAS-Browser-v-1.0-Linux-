@@ -1,0 +1,1 @@
+﻿      The multigraph presents relative contributions for the polarization components north-south (top panel), east-west (middle panel) and vertical (bottom panel) given by the (v x B) product [8], versus geomagnetic angle [7]. The Earth magnetic field of Southern Europe is considered: φ = 0 degrees and θ = 54 degrees.

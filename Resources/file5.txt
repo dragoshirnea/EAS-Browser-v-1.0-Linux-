@@ -1,0 +1,4 @@
+﻿      In the graph it is presented the variation of azimuth angle with geomagnetic angle [6,7]. Calculations were made for the Earth magnetic filed in the southern hemisphere, corresponding to φ = 0 degrees and θ = 54 degrees , for different zenith angles. For an 180 degrees azimuth, geomagnetic angle is maximum.
+     At high values of α, the geomagnetic effect dominates.
+     It follows that for an 180 degrees azimuth the geomagnetic effect reaches its maximum, and at 0 and 360 degrees there is a low geomagnetic effect.
+     Also it is shown in the graph that geomagnetic angle increases with zenith.

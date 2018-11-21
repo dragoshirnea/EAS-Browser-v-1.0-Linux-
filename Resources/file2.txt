@@ -1,0 +1,3 @@
+﻿The development of the total number of charged particles [3]
+
+    The graph below shows the development of total number of charged particles as a function of shower age [2]. The development decreases as shower age increases. Shower age starts as a phenomen at s=0 when the secondary particles start to develop and it finishes at s=1, when there are next to no new particles to be obtained.

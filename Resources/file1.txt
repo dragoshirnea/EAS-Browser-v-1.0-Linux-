@@ -1,0 +1,5 @@
+﻿Shower age [2]
+-parametrizes the longitudinal air shower development
+-the shower commences at s=0 and build its maximum development at s=1
+
+   As we can see in the graph, shower age is proportional to atmospheric depth [1]. “Shower age” denotes the amount of interactions, so the number of resulted particles, and as it goes deeper in the atmosphere there will be more developed particles.

@@ -1,0 +1,1 @@
+﻿      In this graph appear the same characteristic as in representation vs azimuth angle, with dominant detection from NS polarization component [8.a] for ratio >0 and dominant detection from EW polarization component [8.b] for ratio<0 and minimum of amplitude for showers coming from NS direction.

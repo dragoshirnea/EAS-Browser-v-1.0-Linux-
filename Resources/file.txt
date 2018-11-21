@@ -1,0 +1,7 @@
+﻿Atmospheric depth [1]
+
+      -     is a measure of the path length that would help us predict the absorption;
+      -     at any point along the path the number of interactions is proportional to the density times
+the path length;
+
+     In the graph it was used the expression of atmospheric depth as function of height. It shows the variation of atmospheric depth with the altitude. Atmospheric depth decreases exponentially with altitude. The atmospheric depth where an air shower grows higher is located closer to the sea level.

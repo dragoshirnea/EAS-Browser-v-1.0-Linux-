@@ -1,0 +1,4 @@
+﻿     The top graph presents the variation of the absolute amplitude of the north-south polarization component [8.a] with azimuth angle, for different zenith angles.
+     The polarization shows two peaks at 90 and 270 degrees azimuth, when shower axis is perpendicular on the magnetic field axis,therefore the highest amplitude is for showers that are coming from East and West. Minima of polarization are obtained at 0 ,180 and 360 degrees for azimuth, which correspond to North and South directions.
+     The graph in the middle panel shows the variation of the east-west polarization component [8.b] with azimuth angle, for different zenith angles.
+     The graph displayed in the bottom panel shows the variation of the vertical component [8.c] with azimuth angle, for different zenith angles.

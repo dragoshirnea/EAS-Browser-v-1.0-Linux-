@@ -1,0 +1,4 @@
+﻿      The Molière radius [5] gives the scale of the transverse dimension of the fully contained electromagnetic showers initiated by an incident high energy electron or photon. The theoretically motivated values of s=1 for the shower maximum was used.
+      In the graph is presented the variation of Moliere radius with the height.
+      The Moliere radius increases exponentially with altitude.
+      This means that shower broadens higher upp in the atmosphere.
